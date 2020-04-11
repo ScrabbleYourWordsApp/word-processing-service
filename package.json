@@ -1,0 +1,23 @@
+{
+  "name": "word-processing-service",
+  "version": "1.0.0",
+  "description": "Service to process and transfer words",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScrabbleYourWordsApp/word-processing-service.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScrabbleYourWordsApp/word-processing-service/issues"
+  },
+  "homepage": "https://github.com/ScrabbleYourWordsApp/word-processing-service#readme"
+}
